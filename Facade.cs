@@ -18,7 +18,7 @@ namespace GangOfFour.Facade.RealWorld
             Customer customer = new Customer ("Ann McKinsey");
             bool eligible = mortgage.IsEligible (customer, 125000);
             Console.WriteLine ("\n" + customer.Name +
-                " е " + (eligible ? "Одобрена" : "Отхвърлена"));
+                " е " + (eligible ? "Одобрена" : "Неодобрена"));
             // Wait for user
             Console.ReadKey ();
         }

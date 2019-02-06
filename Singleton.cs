@@ -20,14 +20,14 @@ namespace GangOfFour.Singleton.RealWorld {
 
             // Same instance?
             if (b1 == b2 && b2 == b3 && b3 == b4) {
-                Console.WriteLine ("Same instance\n");
+                Console.WriteLine ("Същата инстанция\n");
             }
             
             // Load balance 15 server requests
             LoadBalancer balancer = LoadBalancer.GetLoadBalancer ();
             for (int i = 0; i < 15; i++) {
                 string server = balancer.Server;
-                Console.WriteLine ("Dispatch Request to: " + server);
+                Console.WriteLine ("Изпрати заявка към: " + server);
             }
 
             // Wait for user
@@ -50,11 +50,11 @@ namespace GangOfFour.Singleton.RealWorld {
         protected LoadBalancer () {
 
             // List of available servers
-            _servers.Add ("ServerI");
-            _servers.Add ("ServerII");
-            _servers.Add ("ServerIII");
-            _servers.Add ("ServerIV");
-            _servers.Add ("ServerV");
+            _servers.Add ("Сървър 1");
+            _servers.Add ("Сървър 2");
+            _servers.Add ("Сървър 3");
+            _servers.Add ("Сървър 4");
+            _servers.Add ("Сървър 5");
         }
 
         public static LoadBalancer GetLoadBalancer () {
