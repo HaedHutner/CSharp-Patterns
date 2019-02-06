@@ -1,0 +1,11 @@
+/home/haedhutner/Workspace/std_3_st2/obj/Debug/netcoreapp2.2/std_3_st2.csprojAssemblyReference.cache
+/home/haedhutner/Workspace/std_3_st2/obj/Debug/netcoreapp2.2/std_3_st2.csproj.CoreCompileInputs.cache
+/home/haedhutner/Workspace/std_3_st2/obj/Debug/netcoreapp2.2/std_3_st2.AssemblyInfoInputs.cache
+/home/haedhutner/Workspace/std_3_st2/obj/Debug/netcoreapp2.2/std_3_st2.AssemblyInfo.cs
+/home/haedhutner/Workspace/std_3_st2/bin/Debug/netcoreapp2.2/std_3_st2.deps.json
+/home/haedhutner/Workspace/std_3_st2/bin/Debug/netcoreapp2.2/std_3_st2.runtimeconfig.json
+/home/haedhutner/Workspace/std_3_st2/bin/Debug/netcoreapp2.2/std_3_st2.runtimeconfig.dev.json
+/home/haedhutner/Workspace/std_3_st2/bin/Debug/netcoreapp2.2/std_3_st2.dll
+/home/haedhutner/Workspace/std_3_st2/bin/Debug/netcoreapp2.2/std_3_st2.pdb
+/home/haedhutner/Workspace/std_3_st2/obj/Debug/netcoreapp2.2/std_3_st2.dll
+/home/haedhutner/Workspace/std_3_st2/obj/Debug/netcoreapp2.2/std_3_st2.pdb
