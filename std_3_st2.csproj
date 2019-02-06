@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp2.2</TargetFramework>
-    <StartupObject>GangOfFour.Singleton.RealWorld.MainApp</StartupObject>
+    <StartupObject>std_3_st2.SingletonMainApp</StartupObject>
   </PropertyGroup>
 
 </Project>
