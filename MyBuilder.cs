@@ -1,4 +1,4 @@
-namespace std_3_st2 {
+namespace std_3_st2.Builder {
 
     public class MainApp {
         public static void Main () {

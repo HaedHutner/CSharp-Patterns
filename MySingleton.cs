@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 
-namespace std_3_st2 {
+namespace std_3_st2.Singleton {
 
     public class SingletonMainApp {
         public static void Main () {
